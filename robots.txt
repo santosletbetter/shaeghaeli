@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ogahthood.rajatraders.co.in/sitemap.xml
